@@ -3,5 +3,5 @@ Repositório do Trabalho de Conclusão de Curso: Vetorização de Textos com Bag
 
 Este repositório possuí:
 * A base de dados utilizada no trabalho dividida nos arquivos _agrupado_p1.xlsx_ e _agrupado_p2.xlsx_;
-* A descrição dos atributos das observações usadas na pesquisa segundo sua fonte;
+* A descrição dos atributos das observações usadas na pesquisa segundo sua fonte no documento _DataDescription.pdf_;
 * O script em Python com o desenvolvimento do trabalho armazenado em _ml_NCM.ipynb_.
